@@ -6,3 +6,5 @@ The completely impractical, greyscale only, dumb image file format I made at 11 
 3. Run the encode script: ```python png2nrthrp.py```
 4. the output file should appear.
 5. To decode the image back to png, use ```python nrthrp2png.py```.
+
+Currently you can't actually view the image in its .nrthrp form, so you have to convert it back to a png, making this even more worthless
